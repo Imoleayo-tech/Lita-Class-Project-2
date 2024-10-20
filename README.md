@@ -4,5 +4,4 @@
 #### Projects
 ##### Skills
 ###### Experience
-####### Education
-######## Certification
+
