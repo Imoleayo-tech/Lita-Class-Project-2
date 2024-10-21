@@ -1,7 +1,8 @@
 # Lita-Class-Project-2
 ## Profile
 ### Reprositories
-#### Projects
-##### Skills
-###### Experience
-
+### Projects
+### Skills
+### Experience
+### Education
+### Certification
