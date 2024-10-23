@@ -1,6 +1,7 @@
 # Lita-Class-Project-2
 ## Profile
-### Reprositories
+### Course Outline
+### Tools Used 
 ### Project Title: Lita Data Analysis Capstone Project
 ### Project Overview
 ### Tools Used
@@ -24,3 +25,8 @@
  Objective: To pursue a new carreer in data analysis and be an expert in all tools used by a data analyst.
  
  Bio: To pursue a successful professional career in a challenging work environment with opportunities for career development based on demonstrated performances and achievements, with hard work and effective team work to meet organizational and personal objectives. A Passionate data analyst with expertise in data visualization, data cleaning, data query, machine language, and statistical analysis
+
+ ### Course Outline
+  In the course of the training we were taught how to use Excel, SQL, Building Github Portfolio, and Power BI as data analysyt
+  ### Tools Used in Class
+ 
