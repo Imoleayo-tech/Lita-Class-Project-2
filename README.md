@@ -1,14 +1,33 @@
 # Lita-Class-Project-2
+
 ## Profile
+
 ### Course Outline
+
 ### Tools Used 
+
 ### Project Title: Lita Data Analysis Capstone Project
+
+### Capstone Project 1:Sale Performancew Analysis of a Retail Store
+
 ### Project Overview
+
 ### Tools Used
+
 ### Data Visualization
+
+### Capstone Project 2: 
+
+### Project Overview
+
+### Tools Used
+
 ### Skills
+
 ### Experience
+
 ### Education
+
 ### Certification
 
 
@@ -36,3 +55,10 @@
 - Structured Qyery Language (SQL): for querying data
 - Github: for portfolio building
 - Power BI: for data summarization and data visualization
+
+### Project Title: Lita Data Analysis Capstone Project
+ This contains a detailed procedure of how the project was completed and tools used for executing it
+ ### Capstone Project 1: Sales Performance Analysis for a Retail Store
+
+### Project Overview
+In this project, you are tasked with analyzing the sales performance of a retail store. You will need to explore sales data to uncover key insights such as top-selling products, regional performance, and monthly sales trends. The goal is to produce an interactive Power BI dashboard that highlights these findings.
