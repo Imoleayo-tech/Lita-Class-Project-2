@@ -29,10 +29,10 @@
  ### Course Outline
   In the course of the training we were taught how to use Excel, SQL, Building Github Portfolio, and Power BI as data analysyt
  ### Tools Used in Class
-Microsoft Excel: for Data Cleaning, Amalysis, and Visualization [www.microsoft.excel.com]
-for data cleaning
-for analysis
-for data visualization
-Structured Qyery Language (SQL): for querying data
-Github: for portfolio building
-Power BI: for data summarization and data visualization
+- Microsoft Excel: for Data Cleaning, Amalysis, and Visualization [www.microsoft.excel.com]
+1. for data cleaning
+2. for analysis
+3. for data visualization
+- Structured Qyery Language (SQL): for querying data
+- Github: for portfolio building
+- Power BI: for data summarization and data visualization
