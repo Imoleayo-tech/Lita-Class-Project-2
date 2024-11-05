@@ -6,6 +6,12 @@
 
 ### Tools Used 
 
+### Class Exercises on Excel
+
+### Class Exercise on Structured Query Language (SQL)
+
+### Class Exercise on Power BI
+
 ### Project Title: Lita Data Analysis Capstone Project
 
 ### Capstone Project 1:Sale Performancew Analysis of a Retail Store
@@ -13,6 +19,8 @@
 ### Project Overview
 
 ### Tools Used
+
+### Data Analysis
 
 ### Data Visualization
 
@@ -22,6 +30,10 @@
 
 ### Tools Used
 
+### Data Analysis
+
+### Data Visualization
+
 ### Skills
 
 ### Experience
@@ -29,6 +41,9 @@
 ### Education
 
 ### Certification
+
+
+
 
 
 
@@ -55,10 +70,50 @@
 - Structured Qyery Language (SQL): for querying data
 - Github: for portfolio building
 - Power BI: for data summarization and data visualization
+### Class Exercises on Excel
+
+
 
 ### Project Title: Lita Data Analysis Capstone Project
  This contains a detailed procedure of how the project was completed and tools used for executing it
  ### Capstone Project 1: Sales Performance Analysis for a Retail Store
 
 ### Project Overview
-In this project, you are tasked with analyzing the sales performance of a retail store. You will need to explore sales data to uncover key insights such as top-selling products, regional performance, and monthly sales trends. The goal is to produce an interactive Power BI dashboard that highlights these findings.
+This project involves analyzing the sales performance of a retail store, exploring the sales data to uncover key insights such as top-selling products, regional performance, and monthly sales trends. The goal is to produce an interactive Power BI dashboard that highlights these findings.
+### Tools Used
+- Excel: This was used to perform an initial exploration of the sales data. Pivot tables was to summarize total sales by product, region, and month. Excel formulars were used to calculate metrics such as average salse per product and total revenue by region. Other interesting reports were created using excel.
+- SQL: The dataset were imported into the SQL server environment to write and validate queries. The following queries were written to extract key insight based on the questions below:
+1. To retrieve the total sales for each product category.
+2. To find the number of sales transactions in each region.
+3. To find the highest-selling product by total sales value.
+4. To calculate total revenue per product.
+5. To calculate monthly sales totals for the current year.
+6. To find the top 5 customers by total purchase amount.
+7. To calculate the percentage of total sales contributed by each region.
+8. To identify products with no sales in the last quarter.
+- Power BI: This was used to create a dashboard that visualizes the insights found in Excel and SQL. The dashboard includes the sales overview, top-performing products, and regional breakdowns.
+
+### Data Analysis
+
+### Data Visualization
+
+### Capstone Project 2: Customer Segmentation for a Subscription Service
+
+### Project Overview
+This project involves analyzing customer data for a subscription service to identify segments and trends. The aim or goal is to understand customer behavior, track subscription types, and identify key trends in cancellations and renewals. The Power BI dashboard was used to presents the analysis using different visualization tools.
+### Tools Used
+- Excel: This was used to analyze customer data using pivot tables to find subscription patterns, to calculate the average subscription duration and identify the most popular subscription types and create any other interesting reports.
+- SQL: The dataset was loaded into the SQL Server environment to write and validate queries. Queries were written to extract key insights based on the following questions:
+1. To retrieve the total number of customers from each region.
+2. To find the most popular subscription type by the number of customers.
+3. To find customers who canceled their subscription within 6 months.
+4. To calculate the average subscription duration for all customers.
+5. To find customers with subscriptions longer than 12 months.
+6. To calculate total revenue by subscription type.
+7. To find the top 3 regions by subscription cancellations.
+8. To find the total number of active and canceled subscriptions.
+- Power BI: Build a Power BI dashboard that visualizes key customer segments, cancellations, and subscription trends. Slicers were included for interactive analysis.
+
+### Data Analysis
+
+### Data Visualization
