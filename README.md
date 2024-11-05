@@ -106,7 +106,8 @@ This project involves analyzing the sales performance of a retail store, explori
 8. To identify products with no sales in the last quarter.
 - Power BI: This was used to create a dashboard that visualizes the insights found in Excel and SQL. The dashboard includes the sales overview, top-performing products, and regional breakdowns.
 
-### Data Analysis
+### Data Analysis: 
+[Imoleayo Capstone Project Excel Sales Data.xlsx](https://github.com/user-attachments/files/17626738/Imoleayo.Capstone.Project.Excel.Sales.Data.xlsx)
 
 
 ### Data Visualization
@@ -128,6 +129,7 @@ This project involves analyzing customer data for a subscription service to iden
 8. To find the total number of active and canceled subscriptions.
 - Power BI: Build a Power BI dashboard that visualizes key customer segments, cancellations, and subscription trends. Slicers were included for interactive analysis.
 
-### Data Analysis
+### Data Analysis:
+
 
 ### Data Visualization
