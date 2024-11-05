@@ -108,6 +108,7 @@ This project involves analyzing the sales performance of a retail store, explori
 
 ### Data Analysis
 
+
 ### Data Visualization
 
 ### Capstone Project 2: Customer Segmentation for a Subscription Service
