@@ -76,7 +76,13 @@
 ### Class Exercises on Excel
 [incubator Copy of Excel_Functions_2_-_Text(1).xlsx](https://github.com/user-attachments/files/17694831/incubator.Copy.of.Excel_Functions_2_-_Text.1.xlsx)
 [Incubator Pratice.xlsx](https://github.com/user-attachments/files/17694832/Incubator.Pratice.xlsx)
+
 ### Class Exercise on SQL
+![Screenshot (76)](https://github.com/user-attachments/assets/84983442-0949-4da7-a8c9-960e21e1c253)
+![Screenshot (75)](https://github.com/user-attachments/assets/f7527232-b259-471c-8600-d62373ebdae3)
+![Screenshot (74)](https://github.com/user-attachments/assets/9d99d904-cda7-44f5-845a-3ad2c063cce8)
+![Screenshot (73)](https://github.com/user-attachments/assets/32911fa3-55d6-461b-8a7a-fea6e0d7d6a1)
+![Screenshot (72)](https://github.com/user-attachments/assets/75968c42-2c44-45f2-9b8f-2907f5c682db)
 
 ### Class Exercise on Power BI
 
