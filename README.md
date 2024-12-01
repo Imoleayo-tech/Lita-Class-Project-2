@@ -85,6 +85,9 @@
 ![Screenshot (72)](https://github.com/user-attachments/assets/75968c42-2c44-45f2-9b8f-2907f5c682db)
 
 ### Class Exercise on Power BI
+![Screenshot (93)](https://github.com/user-attachments/assets/e19ae567-1816-46bf-9410-1dc499e785ae)
+![Screenshot (92)](https://github.com/user-attachments/assets/c5bc19af-189b-4b95-a97a-9af55194583c)
+![Screenshot (91)](https://github.com/user-attachments/assets/663bf160-e350-4009-9ebb-567a649a8094)
 
 
 ### Project Title: Lita Data Analysis Capstone Project
